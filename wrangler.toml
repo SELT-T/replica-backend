@@ -1,4 +1,4 @@
-name = "replica-backend"
+name = "selt-t-backend"
 main = "src/index.js"
 compatibility_date = "2024-11-20"
 
@@ -12,4 +12,4 @@ id = "9618271d9bb44030b90ea573ef63966c"
 [[d1_databases]]
 binding = "DB"
 database_name = "replica_backend_db"
-database_id = "a1dbe241-c817-4249-a426-8d3bb5b286ef"
+database_id = "060252fa-0595-4903-892f-2cacbe76c0ce"
