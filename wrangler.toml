@@ -1,6 +1,6 @@
 name = "replica-backend"
 main = "src/index.js"
-compatibility_date = "2024-10-17"
+compatibility_date = "2024-11-20"
 
 [vars]
 NODE_ENV = "production"
